@@ -1,0 +1,25 @@
+
+container-fluid{
+  margin-top: 5px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  /*background-color: rgb(255, 0, 0);
+  border: 5px solid rgb(0, 0, 0);*/
+}
+header{
+  background: rgb(0, 0, 0);
+}
+#main{
+  background: rgb(0, 0, 0);
+    color: aliceblue;
+    height: 540px;
+  }
+#footer {
+  background: rgb(31, 31, 42);
+  color: aliceblue;
+  align-items: center;
+height: 100px;
+}
+#footer p{
+  margin-left: 20px;
+}
